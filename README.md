@@ -1,1 +1,1 @@
-# Factorial-program-with-function-and-loop
+# Factorial-program-with-function-and
